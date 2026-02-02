@@ -14,7 +14,7 @@ This project demonstrates how to use **Terraform** to provision and manage a com
 
 The entire infrastructure  including compute, database, storage, networking, and security is defined in Terraform configuration files, enabling **automation, consistency, and repeatability**.
 
----
+
 
 ##  Architecture Overview
 
@@ -39,7 +39,7 @@ Amazon S3
 
 <img width="960" height="610" alt="image" src="https://github.com/user-attachments/assets/e17ec7a9-a1e4-48e8-9577-edbffa6d3b70" />
 
----
+
 
 ## AWS Services Used
 
@@ -83,7 +83,6 @@ Amazon S3
 * MySQL access: Port `3306`
 * Restricted to EC2 security group and specific IP
 
----
 
 ## Terraform Components
 
@@ -104,7 +103,6 @@ Amazon S3
 
 These outputs are used to automatically configure the application environment.
 
----
 
 
 ## Deployment Steps
@@ -152,7 +150,7 @@ This project provided hands-on experience with:
 * Secure networking with security groups
 * Real-world Node.js + MySQL architecture
 
----
+
 
 
 
@@ -163,7 +161,7 @@ This project provided hands-on experience with:
 Undergraduate | Cloud & DevOps Enthusiast
 Sri Lanka
 
----
+
 
 
 **
