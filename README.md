@@ -12,11 +12,11 @@
 
 This project demonstrates how to use **Terraform** to provision and manage a complete **AWS infrastructure** for a Node.js application using **Infrastructure as Code (IaC)** principles.
 
-The entire infrastructure — including compute, database, storage, networking, and security — is defined in Terraform configuration files, enabling **automation, consistency, and repeatability**.
+The entire infrastructure  including compute, database, storage, networking, and security is defined in Terraform configuration files, enabling **automation, consistency, and repeatability**.
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 The application is deployed on AWS using the following architecture:
 
@@ -35,13 +35,13 @@ Amazon S3
 (Static Images)
 ```
 
-### 🔹 Architecture Diagram
+### Architecture Diagram
 
 <img width="960" height="610" alt="image" src="https://github.com/user-attachments/assets/e17ec7a9-a1e4-48e8-9577-edbffa6d3b70" />
 
 ---
 
-## ☁️ AWS Services Used
+## AWS Services Used
 
 ### 1.Amazon EC2
 
@@ -85,7 +85,7 @@ Amazon S3
 
 ---
 
-## ⚙️ Terraform Components
+## Terraform Components
 
 ### Key Terraform Resources
 
